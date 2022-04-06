@@ -1,0 +1,8 @@
+packages/
+.vs/
+bin/
+obj/
+Properties/
+App.config/
+packages.config/
+Day29_Indian_States_Census_analyser.sln/
